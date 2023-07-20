@@ -1,0 +1,63 @@
+.gradient-sunny {
+    background: linear-gradient(to bottom, rgb(245, 245, 167), rgb(236, 190, 39));
+  }
+  
+  .gradient-cloudy {
+    background: linear-gradient(to bottom, gray, darkgray);
+  }
+  
+  .gradient-rain {
+    background: linear-gradient(to bottom, lightblue, blue);
+  }
+  
+  .partly-cloudy {
+    background: linear-gradient(to bottom, #cad8ff, #79b3ee, #028be6);
+  }
+  
+  .overcast {
+    background: linear-gradient(to right, gray, darkgray);
+  }
+  
+  .mist {
+    background: linear-gradient(to bottom, gray, darkgray);
+  }
+  
+  .patchy-rain {
+    background: linear-gradient(to bottom, lightblue, blue);
+  }
+  
+  .clear {
+    background: linear-gradient(to bottom, yellow, orange);
+  }
+  
+  .gradient-night-sunny {
+    background: linear-gradient(120deg, #1F1C2C, #928DAB);
+  }
+  
+  .gradient-night-cloudy {
+    background: linear-gradient(120deg, #2C3E50, #4CA1AF);
+  }
+  
+  .gradient-night-partly-cloudy {
+    background: linear-gradient(120deg, #3b2c74, #1c171d);
+  }
+  
+  .gradient-night-overcast {
+    background: linear-gradient(120deg, #1F1C2C, #4B1248);
+  }
+  
+  .gradient-night-mist {
+    background: linear-gradient(120deg, #3A1C71, #D76D77, #FFAF7B);
+  }
+  
+  .gradient-night-patchy-rain {
+    background: linear-gradient(120deg, #1a2a6c, #b21f1f, #fdbb2d);
+  }
+  
+  .gradient-night-rain {
+    background: linear-gradient(120deg, #232526, #414345);
+  }
+  
+  .gradient-night-clear {
+    background: linear-gradient(120deg, #425770, #130729);
+  }
